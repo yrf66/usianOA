@@ -1,0 +1,135 @@
+[33mcommit 714ded1155a5d9b04bc9710b22fe71f9ee7143c2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Sun Aug 30 22:59:10 2020 +0800
+
+    docs: remove gitads
+
+[33mcommit 785f19f551c6255defbf8a126c4b0bb4ecb4ae43[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Sun Jul 26 10:07:01 2020 +0800
+
+    Update README.md
+
+[33mcommit 75ba8cf038693b28deb6bebf5d845503c4f5febe[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jul 13 10:42:23 2020 +0800
+
+    docs: update ads url
+
+[33mcommit abcd5d810d0f76aa79db252856f9aef5f15224e0[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Sun Jul 5 10:57:28 2020 +0800
+
+    docs: add gitads
+
+[33mcommit 8c4e38fb1fcf564b29e2dec3368f503f69d0c461[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Tue Jun 30 21:30:58 2020 +0800
+
+    Update README.md
+
+[33mcommit fe326aa2b061761878738d47c62c95e87940e901[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Tue Jun 30 21:20:43 2020 +0800
+
+    Update README.md
+
+[33mcommit c9cb7db3ce62e5cfb54029e1ebc5545866cb038c[m
+Author: morrxy <morrxy@gmail.com>
+Date:   Fri Jun 26 18:40:32 2020 +0800
+
+    perf[getInfo]:stop run after reject (#599)
+
+[33mcommit cd8d52bfbd035baa3e3d15851bd684691c9b2b9e[m
+Author: morrxy <morrxy@gmail.com>
+Date:   Thu Jun 25 13:51:25 2020 +0800
+
+    fix: add route name(#598)
+
+[33mcommit 879318692c2990b2a6646c2567f0c9b741434f4d[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Wed Jun 24 10:21:07 2020 +0800
+
+    perf[chore]: remove preserveWhitespace config (#597)
+
+[33mcommit 8e76fdb622ad350147c557561be6e807ea3a6c68[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Tue Jun 23 21:11:06 2020 +0800
+
+    fix: do not preload runtime.js (#596)
+    
+    add runtime.js to fileBlacklist
+
+[33mcommit 129ea7e65414e0f2beab091c435a4c9f60082351[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Sun Jun 21 21:54:51 2020 +0800
+
+    [release] 4.4.0
+
+[33mcommit 83f3a9cc579b6d330271671a202646478e4c9d76[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Sun Jun 21 21:46:49 2020 +0800
+
+    bump: update to vue-cli@4 (#591)
+
+[33mcommit b292e46f452e7f4625ca1b022505cb952848dd68[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Fri Jun 19 15:52:59 2020 +0800
+
+    fix: fixed param2Obj.spec.js
+
+[33mcommit 4958db1bad1d673916d837c052af79ac3c158492[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jun 15 17:15:29 2020 +0800
+
+    fix typo
+
+[33mcommit 88303a295902a54883e24f36fb54310bbd54c8eb[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jun 15 17:14:28 2020 +0800
+
+    chore: update element-ui to 2.13.2
+
+[33mcommit 8865514c81a6bc38a6d7d06827056cc79436bdf3[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jun 15 17:13:53 2020 +0800
+
+    fix[utils]: param2Obj bug when url params includes ==
+
+[33mcommit e2fd7c7528d3bb8b840b1383007ef5d347fcd635[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jun 15 17:11:28 2020 +0800
+
+    feat[Menu]: menu icon support el-icon
+
+[33mcommit 5c87772025d626762e8b5115efe29c691424bdbb[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jun 15 17:07:49 2020 +0800
+
+    refactor: change mock files to commonjs
+
+[33mcommit efc976ae5ac572beaa45079258882a8648b944b9[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Mon Jun 15 17:03:06 2020 +0800
+
+    chore: turn on the preload
+
+[33mcommit 8f2c04e60cfd19465e5a24a7de8dbbacce151f5e[m[33m ([m[1;33mtag: [m[1;33m4.3.0[m[33m)[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Tue Jun 9 16:01:17 2020 +0800
+
+    [release] 4.3.0
+
+[33mcommit e1c24e7e85ffa17e020693c3b0ea77204c7bf532[m
+Author: 花裤衩 <panfree23@gmail.com>
+Date:   Tue Jun 9 16:00:51 2020 +0800
+
+    chore: chore: change node-sass to dart-sass
+
+[33mcommit 4a822b95d66e0ef6a6754c997e798d3fae6a9ce1[m[33m ([m[1;34mgrafted[m[33m)[m
+Author: 潘嘉晨 <panjiachen@bytedance.com>
+Date:   Thu Jun 4 21:26:13 2020 +0800
+
+    fix[parseTime]: fixed when pass null
+    
+    https://github.com/PanJiaChen/vue-element-admin/commit/5890499077589db1c04c7a72c4dacaa97a58f87c
