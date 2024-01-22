@@ -1,6 +1,9 @@
 <template>
   <div class="dashboard-container">
     <div class="dashboard-text">name: {{ name }}</div>
+
+    <svg-icon icon-class="eye" />
+    <svg-icon icon-class="eye-open" />
   </div>
 </template>
 
@@ -12,6 +15,10 @@ export default {
   computed: {
     ...mapGetters(['name'])
   }
+  // created() {
+  //   // 调用vuex中定义的获取用户信息方法
+  //   this.$store.dispatch('user/getUserInfo')
+  // }
 }
 </script>
 
